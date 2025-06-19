@@ -13,13 +13,13 @@ Ce projet est une application web moderne développée dans le cadre du cours de
 ### Frontend (Client)
 - React.js
 - HTML5/CSS3
-- JavaScript/TypeScript
-- Material-UI ou Tailwind CSS
+- JavaScript
+- Tailwind CSS
 
 ### Backend (Server)
 - Node.js
 - Express.js
-- Base de données (MongoDB/MySQL)
+- Base de données (MongoDB)
 - API REST
 
 ## 📦 Installation
@@ -46,7 +46,7 @@ npm start
 ## 🔧 Configuration
 1. Clonez le dépôt
 ```bash
-git clone https://github.com/AroniavoTom/Techeweb_m1-2025.git
+git clone https://github.com/AroniavoTom/projet_m1-tech-web.git
 ```
 
 2. Installez les dépendances du client et du serveur
